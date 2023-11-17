@@ -54,7 +54,10 @@
  }
 
  .hero{
-   background-color: #f8f7fc;
+   background-image: url(egyptos.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 600px;
  }
  .hero-section{
    max-width: 1366px;
@@ -224,5 +227,11 @@ margin-bottom: 1rem;
    
 }
 
+.safe {
+   color: #6e0aef;
+}
 
-
+.ahmed{
+   display: inline-block;
+   float: left;
+}
