@@ -9,7 +9,7 @@
     box-sizing: border-box;
  }
  body{
-    font-family: 'Almarai', sans-serif;
+    font-family: Aljazeera;
  }
 
  nav{
@@ -58,7 +58,6 @@
    background-repeat: no-repeat;
    background-size: cover;
    height: 600px;
-   max-width: 1366;
  }
  .hero-section{
    max-width: 1366px;
@@ -76,7 +75,7 @@
  }
  .hero-section h4{
     color: #6e0aef;
-    font-size: 1.6rem;
+    font-size: 2.6rem;
     margin-bottom: 1rem;
  }
 
@@ -230,10 +229,40 @@ margin-bottom: 1rem;
 
 .safe {
    color: #6e0aef;
+   font-size: 30px;
 }
 
 .ahmed{
    float: left;
 }
+
+
+.good{
+   font-size: 35px;
+}
+
+
+
+.ahmed2{
+   font-size: 38px;
+}
+
+.welcome{
+   font-size: 90px;
+}
+
+
+.website{
+   text-align: center;
+   font-size: 1rem;
+   font-family: Aljazeera;
+}
+
+.copy{
+   justify-content: center;
+   width: 10px;
+   height: 10px;
+}
+
 
 
